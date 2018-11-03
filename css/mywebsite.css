@@ -1,0 +1,8 @@
+.responsive{
+	width: 30%;
+	height: auto;
+}
+.img-fluid{
+	max-width: 20%;
+	height:auto;
+}
